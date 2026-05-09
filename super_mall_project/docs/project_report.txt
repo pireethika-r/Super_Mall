@@ -1,0 +1,31 @@
+
+SUPER MALL WEB APPLICATION REPORT
+
+Project Title:
+Super Mall Web Application - Manage Shop Offers, Products & Location
+
+Objective:
+To create a web-based platform for managing shops, products, offers, and locations.
+
+Technologies:
+HTML, CSS, JavaScript, Firebase
+
+Modules:
+Admin:
+- Manage shops
+- Manage offers
+- Manage categories
+
+User:
+- View products
+- Compare products
+- View offers
+
+System Architecture:
+Frontend -> Firebase Database
+
+Optimization:
+- Modular structure
+- Maintainable code
+- Logging implemented
+
